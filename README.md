@@ -44,6 +44,7 @@ Dorks Eye has tested it so far on:
 * Parrot Security
 * BlackArch
 * Termux
+* Windows
 
 This list would be expanded
 ****
@@ -73,6 +74,18 @@ git clone https://github.com/BullsEye0/dorks-eye.git
 cd dorks-eye
 
 pip install -r requirements.txt
+
+# Windows 10 and 11
+# requeriments git and python 3.x
+
+git clone https://github.com/BullsEye0/dorks-eye.git
+
+cd dorks-eye
+
+pip install -r requirements.txt
+
+# usage
+python dorks-eye.py
 
 # Usage Termux
 
